@@ -1,0 +1,15 @@
+.DS_Store
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+mlruns/
+mlartifacts/
+mlflow.db
+artifacts/
+models/
+
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local

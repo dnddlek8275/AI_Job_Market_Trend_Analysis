@@ -1,0 +1,5 @@
+outs:
+- md5: d06df019969163366d115335d294e5eb
+  size: 3838390
+  hash: md5
+  path: salary_prediction_monthly_dataset.csv
